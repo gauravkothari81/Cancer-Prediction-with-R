@@ -25,6 +25,7 @@ ix. Symmetry
 x. Fractal dimension
 
 3. Research Question
+
 We shall be answering the question of whether the aspirate (lump) is malignant (cancerous) or benign
 (harmless), given a few of the sample parameters of breast mass aspirate, therefore aiming to achieve
 the highest possible accuracy in correctly diagnosing a patient with regards to breast cancer.
